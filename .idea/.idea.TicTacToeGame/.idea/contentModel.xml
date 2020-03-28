@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.Rider2019.3/system/resharper-host/local/Transient/ReSharperHost/v193/SolutionCaches/_TicTacToeGame.-1154654652.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="TicTacToeGame" t="IncludeRecursive">
+        <e p="Board.cs" t="Include" />
+        <e p="Player.cs" t="Include" />
+        <e p="Position.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Renderer.cs" t="Include" />
+        <e p="State.cs" t="Include" />
+        <e p="TicTacToeGame.csproj" t="IncludeRecursive" />
+        <e p="WinChecker.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="TicTacToeGame.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="TicTacToeGame.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

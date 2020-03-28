@@ -1,0 +1,13 @@
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/bin/Debug/netcoreapp3.1/TicTacToeGame
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/bin/Debug/netcoreapp3.1/TicTacToeGame.deps.json
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/bin/Debug/netcoreapp3.1/TicTacToeGame.runtimeconfig.json
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/bin/Debug/netcoreapp3.1/TicTacToeGame.runtimeconfig.dev.json
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/bin/Debug/netcoreapp3.1/TicTacToeGame.dll
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/bin/Debug/netcoreapp3.1/TicTacToeGame.pdb
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/obj/Debug/netcoreapp3.1/TicTacToeGame.csprojAssemblyReference.cache
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/obj/Debug/netcoreapp3.1/TicTacToeGame.csproj.CoreCompileInputs.cache
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/obj/Debug/netcoreapp3.1/TicTacToeGame.AssemblyInfoInputs.cache
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/obj/Debug/netcoreapp3.1/TicTacToeGame.AssemblyInfo.cs
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/obj/Debug/netcoreapp3.1/TicTacToeGame.dll
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/obj/Debug/netcoreapp3.1/TicTacToeGame.pdb
+/home/atay/Documents/projects/C#/RiderProjects/TicTacToeGame/TicTacToeGame/obj/Debug/netcoreapp3.1/TicTacToeGame.genruntimeconfig.cache

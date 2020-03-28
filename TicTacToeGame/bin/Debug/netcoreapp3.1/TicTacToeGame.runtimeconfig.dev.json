@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/atay/.dotnet/store/|arch|/|tfm|",
+      "/home/atay/.nuget/packages"
+    ]
+  }
+}
